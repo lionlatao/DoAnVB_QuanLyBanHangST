@@ -1,0 +1,471 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DangNhap
+</name>
+</assembly>
+<members>
+<member name="T:DangNhap.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DangNhap.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DangNhap.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DangNhap.My.Resources.Resources.Anh_chill_canh_dep_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DangNhap.My.Resources.Resources.background_vu_tru_mau_tim_dep_mat_780x520">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DangNhap.My.Resources.Resources.Hinh_anh_chill">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DangNhap.My.Resources.Resources.Hinh_Nen_Dep_P1_Sitetin__17_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DangNhap.My.Resources.Resources.link_tai_hinh_nen_chill_anh_chill_dep_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DangNhap.My.Resources.Resources.maxresdefault">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DangNhap.My.Resources.Resources.maxresdefault__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet.SPDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet.SPRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet.SPRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSetTableAdapters.SPTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DangNhap.QuanLyBanHangDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DangNhap.QuanLyBanHangDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DangNhap.QuanLyBanHangDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSetTableAdapters.TableAdapterManager.UpdateAll(DangNhap.QuanLyBanHangDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet1.NVDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet1.NVRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet1.NVRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet1TableAdapters.NVTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(DangNhap.QuanLyBanHangDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(DangNhap.QuanLyBanHangDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(DangNhap.QuanLyBanHangDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet1TableAdapters.TableAdapterManager.UpdateAll(DangNhap.QuanLyBanHangDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet2.KHDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet2.KHRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet2.KHRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet2TableAdapters.KHTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(DangNhap.QuanLyBanHangDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(DangNhap.QuanLyBanHangDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(DangNhap.QuanLyBanHangDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet2TableAdapters.TableAdapterManager.UpdateAll(DangNhap.QuanLyBanHangDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3.CTHDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3.HDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3.CTHDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3.HDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3.CTHDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3.HDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3TableAdapters.CTHDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3TableAdapters.HDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(DangNhap.QuanLyBanHangDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(DangNhap.QuanLyBanHangDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(DangNhap.QuanLyBanHangDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet3TableAdapters.TableAdapterManager.UpdateAll(DangNhap.QuanLyBanHangDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet4.GHDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet4.GHRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet4.GHRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet4TableAdapters.GHTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(DangNhap.QuanLyBanHangDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(DangNhap.QuanLyBanHangDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(DangNhap.QuanLyBanHangDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet4TableAdapters.TableAdapterManager.UpdateAll(DangNhap.QuanLyBanHangDataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet5">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet5.KHDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet5.KHRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet5.KHRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet5TableAdapters.KHTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet5TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(DangNhap.QuanLyBanHangDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(DangNhap.QuanLyBanHangDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(DangNhap.QuanLyBanHangDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DangNhap.QuanLyBanHangDataSet5TableAdapters.TableAdapterManager.UpdateAll(DangNhap.QuanLyBanHangDataSet5)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DangNhap.QuanLyBanHangDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

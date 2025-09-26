@@ -1,0 +1,60 @@
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\QLBHDD.vbproj.AssemblyReference.cache
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\QLBHDD.vbproj.SuggestedBindingRedirects.cache
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.frmQLBHDD.resources
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.Resources.resources
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.frmSanPham.resources
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\QLBHDD.vbproj.GenerateResource.cache
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\QLBHDD.vbproj.CoreCompileInputs.cache
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\bin\Debug\DangNhap.exe.config
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\bin\Debug\DangNhap.exe
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\bin\Debug\DangNhap.pdb
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\bin\Debug\DangNhap.xml
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.exe
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.xml
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.pdb
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.frmNV.resources
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.frmHoaDon.resources
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.frmGioHang.resources
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.frmKhachHang.resources
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.frmMain.resources
+E:\Hoc_Tap\DoAn_QLBH (VB)\DangNhap\DangNhap\obj\Debug\DangNhap.frmQuenMK.resources
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\bin\Debug\DangNhap.exe.config
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\bin\Debug\DangNhap.exe
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\bin\Debug\DangNhap.pdb
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\bin\Debug\DangNhap.xml
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\QLBHDD.vbproj.AssemblyReference.cache
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.exe.config
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmQuenMK.resources
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmQLBHDD.resources
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmGioHang.resources
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmHoaDon.resources
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmKhachHang.resources
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.Resources.resources
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmNV.resources
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmMain.resources
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmSanPham.resources
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\QLBHDD.vbproj.GenerateResource.cache
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\QLBHDD.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.exe
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.xml
+C:\Users\PC\Downloads\QLBH_VB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.pdb
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\bin\Debug\DangNhap.exe.config
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\bin\Debug\DangNhap.exe
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\QLBHDD.vbproj.AssemblyReference.cache
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.exe.config
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmQuenMK.resources
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmQLBHDD.resources
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmGioHang.resources
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmHoaDon.resources
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmKhachHang.resources
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.Resources.resources
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmNV.resources
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmMain.resources
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.frmSanPham.resources
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\QLBHDD.vbproj.GenerateResource.cache
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\QLBHDD.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.exe
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.xml
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\obj\Debug\DangNhap.pdb
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\bin\Debug\DangNhap.pdb
+C:\Users\PC\Downloads\QLBHVB-done\QLBH_VB-done\DangNhap\DangNhap\bin\Debug\DangNhap.xml
